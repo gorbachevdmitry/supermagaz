@@ -1,5 +1,5 @@
 import dj_database_url
-from magazin.magazin.settings import *
+from magazin.settings import *
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
